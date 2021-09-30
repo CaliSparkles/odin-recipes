@@ -1,0 +1,29 @@
+.center{
+    margin-top: auto;
+    margin-right: 150px;
+    margin-bottom: auto;
+    margin-left: 150px;
+}
+.left{
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 200px;
+}
+.right{
+    margin-top: auto;
+    margin-right: 150px;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+img {
+    height: auto;
+    width: 700px;
+    align-self: center;
+}
+h1 {
+    font-family: Helvetica, Verdana, sans-serif;
+    text-align: center;
+    font-size: 28px;
+    color: #4d88ff
+}
