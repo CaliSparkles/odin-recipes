@@ -1,0 +1,16 @@
+* {
+    font-family: 'Monaco', monospace, sans-serif;
+}
+
+h1 {
+    background: linear-gradient(to bottom right, red, yellow);
+    color: white;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: maroon;
+    text-align: center;
+    font-size: 42px;
+}
+
+body {
+    background-color: rgb(238, 235, 235);
+}
