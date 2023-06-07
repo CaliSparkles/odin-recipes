@@ -1,6 +1,6 @@
 * {
     font-family: 'Monaco', monospace, sans-serif;
-}
+   }
 
 h1 {
     background: linear-gradient(to bottom right, red, yellow);
@@ -9,6 +9,7 @@ h1 {
     -webkit-text-stroke-color: maroon;
     text-align: center;
     font-size: 42px;
+    padding: 8px;
 }
 
 body {
