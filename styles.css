@@ -2,15 +2,15 @@
     font-family: 'Monaco', monospace, sans-serif;
    }
 
-h1 {
+.container {
     background: linear-gradient(to bottom right, red, yellow);
     color: white;
     -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: maroon;
     text-align: left;
-    font-size: 42px;
     padding: 8px;
     margin-bottom: 62px;
+    display: flex;
 }
 
 body {
@@ -30,4 +30,12 @@ p {
     display: inline;
     margin: 20px 100px;
     padding-left: 18px;
+}
+
+.header {
+    font-size: 42px;
+}
+
+.navbar {
+    font-size: 28px;
 }
